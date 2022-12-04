@@ -1,13 +1,13 @@
 # Surfs Up
 
 ## Overview of the analysis: 
-I was tasked to perform a weather analyisis in Oahu to help my new buisness partner W.Avy make informed buisness decisions about opening a new Surf and IceCream Shop. Looking at the data collected by the local weather stations from years 2010-2017 specificly for the months of June and December so we could see if temperatures would provoke people to want ice cream all year long while enjoying the surfing.
+I was tasked to perform a weather analysis in Oahu to help my new business partner W.Avy make informed business decisions about opening a new Surf and Ice Cream Shop. Looking at the data collected by the local weather stations from years 2010-2017 specifically for the months of June and December so we could see if temperatures would provoke people to want ice cream all year long while enjoying the surfing.
 
 ## Results:
 
-Three key differences between June and December Temperatues in Oahu, Hawaii:
+Three key differences between June and December Temperatures in Oahu, Hawaii:
 * June's average temperature was 3°F warmer.
-* December's minimun temperature was 8°F colder than the minimum in June.
+* December's minimum temperature was 8°F colder than the minimum in June.
 * June had a larger dataset that included 2017 which equated to 183 more data points. 
   * In other words, December 2017 was not in this dataset where June was included. 
 
@@ -49,13 +49,13 @@ Three key differences between June and December Temperatues in Oahu, Hawaii:
 
 ## Summary: 
 
-After looking into this data set with a focus on June and December it looks like the temerature flux is minimal with an average June temp of 74°F and average December Temp of 71°F. December did have a low of 56°F however I do believe surf lovers and ice-cream lovers will still induldge in both activities at these temperatures. 
+After looking into this data set with a focus on June and December it looks like the temperature flux is minimal with an average June temperature of 74°F and average December Temp of 71°F. December did have a low of 56°F however I do believe surf lovers and ice-cream lovers will still indulge in both activities at these temperatures. 
 
-I wanted to take look at the precipitation for these months, as rain could put a damper on these activites steering people to indoor activites with warm drinks. After analyzing the data the rain fall also looks to be similar for these months with an average of .14 inches in June and .22 inches in December. It seams like it rains a bit most days in this tropical climate. 
+I wanted to take look at the precipitation for these months, as rain could put a damper on these activities steering people to indoor activities with warm drinks. After analyzing the data, the rain fall also looks to be similar for these months with an average of .14 inches in June and .22 inches in December. It seems like it rains a bit most days in this tropical climate. 
 
-I then wanted to see if there were any trend in the temperature from the first year of the dataset (2010) to the last full year of the dataset (2016). There was data for 2017 but it was an incomplete year. The average temp for the entire data set is 73°F, the average for 2010 is 72°F, and the average temperature for 2016 is 74°F. There could be a slight increase in temperature over time, this would benefit our new buisness. More data over a longer timeperiod would give us a better idea but this is a good start. 
+I then wanted to see if there were any trend in the temperature from the first year of the dataset (2010) to the last full year of the dataset (2016). There was data for 2017 but it was an incomplete year. The average temperature for the entire data set is 73°F, the average for 2010 is 72°F, and the average temperature for 2016 is 74°F. There could be a slight increase in temperature over time, this would benefit our new business. More data over a longer time period would give us a better idea but this is a good start. 
 
 ## Conclusion: 
-Lets go surfing and eat some ice-cream with our new freinds that we will call customers (hopefully repeat customers). 
+Let's go surfing and eat some ice-cream with our new friends that we will call customers (hopefully repeat customers). 
 
 
